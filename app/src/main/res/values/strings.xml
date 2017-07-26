@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pdf Demo</string>
+    <string name="print_pdf">Print Pdf</string>
+</resources>
